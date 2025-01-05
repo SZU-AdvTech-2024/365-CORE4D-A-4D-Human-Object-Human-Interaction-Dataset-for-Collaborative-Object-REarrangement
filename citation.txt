@@ -1,0 +1,6 @@
+@article{REPO365,
+    author = "Zhang, Chengwen and Liu, Yun and Xing, Ruofan and Tang, Bingda and Yi, Li",
+    journal = "arXiv preprint arXiv:2406.19353",
+    title = "{CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement}",
+    year = "2024"
+}
